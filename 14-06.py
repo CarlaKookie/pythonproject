@@ -1,3 +1,5 @@
+#Ejercicio 3
+
 lista = []
 n=0
 suma=0
